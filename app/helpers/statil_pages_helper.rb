@@ -1,0 +1,2 @@
+module StatilPagesHelper
+end
